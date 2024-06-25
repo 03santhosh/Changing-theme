@@ -1,0 +1,41 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 20px;
+  border-bottom: #dcdcdc solid 2px;
+}
+.bg-dark {
+  background-color:  #333333;
+  border-bottom: none;
+}
+.bg-light {
+  background-color: white;
+}
+.website-theme-image {
+  height: 8vh;
+}
+.link-container {
+  display: flex;
+  align-self: center;
+}
+.links {
+  text-decoration: none;
+}
+.link-list {
+  list-style-type: none;
+  margin-right: 30px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.dark-text {
+  color: #1e293b;
+}
+.light-text {
+  color: white;
+}
+button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

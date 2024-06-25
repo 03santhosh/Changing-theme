@@ -1,0 +1,26 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.about-bg-dark {
+  background-color: #000000;
+}
+.about-bg-light {
+  background-color: #ffffff;
+}
+.page-image {
+  height: 25vh;
+}
+.page-text {
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+.about-text-light {
+  color: #ffffff;
+}
+.about-text-dark {
+  color: #1e293b;
+}
